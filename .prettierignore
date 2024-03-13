@@ -1,0 +1,14 @@
+*.html
+*.min.js
+*.yaml
+*.yml
+
+bitbucket.cjs
+bitbucket/**/*.cjs
+docker
+pipelines.cjs
+pipelines/**/*.cjs
+server/src
+web/dist
+web/public/js
+web/src/assets
